@@ -2,7 +2,7 @@
 
 Hello, genius, this is Naimul Kabir, a passionate self-taught mobile application developer from Bangladesh.
 
-- 🔭 I’m currently working on my project [FluChat](https://github.com/kabirnayeem99/fluchat)
+- 🔭 I’m currently working on my project [FluSkipe](https://github.com/kabirnayeem99/flutter_skype_clone)
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
