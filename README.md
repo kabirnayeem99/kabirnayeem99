@@ -1,7 +1,6 @@
-### Hello genius, this is Naimul Kabir! 😎
+### Hello, beautiful people, This is Naimul 👋
 
-Hello, genius, this is Naimul Kabir, a passionate self-taught mobile application developer from Bangladesh.
-
+## I'm a passionate self-taught mobile app developer!
 - 🔭 I’m currently working on my project [FluSkipe](https://github.com/kabirnayeem99/flutter_skype_clone)
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about anything [here](https://github.com/kabirnayeem99/kabirnayeem99/issues)
@@ -32,11 +31,14 @@ Hello, genius, this is Naimul Kabir, a passionate self-taught mobile application
 
 ---
 
+### Statistics:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirnayeem99&hide=html,python" />
 </a>
 <br/>
+<br/>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kabirnayeem99&show_icons=true" alt="Naimul's github stats" />
 </a>
