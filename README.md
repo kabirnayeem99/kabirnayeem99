@@ -34,10 +34,11 @@ Hello, genius, this is Naimul Kabir, a passionate self-taught mobile application
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirnayeem99&theme=gruvbox&hide=html,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirnayeem99&hide=html,python" />
 </a>
+<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kabirnayeem99&show_icons=true&theme=gruvbox" alt="Naimul's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kabirnayeem99&show_icons=true" alt="Naimul's github stats" />
 </a>
 
 
