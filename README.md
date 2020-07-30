@@ -20,13 +20,12 @@ Hello, genius, this is Naimul Kabir, a passionate self-taught mobile application
 [<img align="left" alt="Android Studio" width="26px" src="https://github.com/kabirnayeem99/kabirnayeem99/raw/master/assets/android_studio.png"/>]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
-[<img align="left" alt="SQLite" width="26px" src="https://github.com/kabirnayeem99/kabirnayeem99/raw/master/assets/sqlite.png" />] 
-[<img align="left" alt="MySQL" width="26px" src="https://github.com/kabirnayeem99/kabirnayeem99/raw/master/assets/mysql.png" />] 
+[<img align="left" alt="SQLite" width="26px" src="https://github.com/kabirnayeem99/kabirnayeem99/raw/master/assets/sqlite.png" />]
+[<img align="left" alt="MySQL" width="26px" src="https://github.com/kabirnayeem99/kabirnayeem99/raw/master/assets/mysql.png" />]
 [<img align="left" alt="Git" width="26px" src="https://github.com/kabirnayeem99/kabirnayeem99/raw/master/assets/git.png" />] 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />] 
-[<img align="left" alt="Linux Command Line" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />] 
-[<img align="left" alt="Flutter" width="26px" src="https://github.com/kabirnayeem99/kabirnayeem99/raw/master/assets/flutter.svg"/>] 
-
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="Linux Command Line" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="Flutter" width="26px" src="https://github.com/kabirnayeem99/kabirnayeem99/raw/master/assets/flutter.svg"/>]
 
 <br />
 <br />
