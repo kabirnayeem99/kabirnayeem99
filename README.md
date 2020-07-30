@@ -15,8 +15,9 @@ Hello, genius, this is Naimul Kabir, a passionate self-taught mobile application
 
 ### Languages and Tools:
 
-[<img align="left" alt="Dart" width="26px" src="https://github.com/kabirnayeem99/kabirnayeem99/raw/master/assets/dart.png"/>][webdevplaylist]
+[<img align="left" alt="Dart" width="26px" src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" />][webdevplaylist]
 [<img align="left" alt="Dart" width="26px" src="https://github.com/kabirnayeem99/kabirnayeem99/raw/master/assets/flutter.svg"/>][webdevplaylist]
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
