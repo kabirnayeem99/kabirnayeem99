@@ -4,12 +4,14 @@
 - 🔭 I’m currently working on my project [FluSkipe](https://github.com/kabirnayeem99/flutter_skype_clone)
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about anything [here](https://github.com/kabirnayeem99/kabirnayeem99/issues)
+---
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+---
 
 
 ### Languages and Tools:
