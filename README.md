@@ -34,7 +34,7 @@
 ### Statistics:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirnayeem99&hide=java,html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirnayeem99&hide=makefile,java,html" />
 </a>
 <br/>
 <br/>
