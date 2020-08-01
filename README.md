@@ -34,7 +34,7 @@
 ### Statistics:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirnayeem99&hide=html,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirnayeem99&hide=java,html" />
 </a>
 <br/>
 <br/>
@@ -42,7 +42,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kabirnayeem99&show_icons=true" alt="Naimul's github stats" />
 </a>
-
 
 ---
 [website]: https://dart.dev/
