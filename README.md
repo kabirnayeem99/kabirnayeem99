@@ -1,7 +1,7 @@
 ### Hello, beautiful people, This is Naimul 👋
 
 ## I'm a passionate self-taught mobile app developer!
-- 🔭 I’m currently working on my project [FluSkipe](https://github.com/kabirnayeem99/flutter_skype_clone)
+- 🔭 I’m currently working on my project [Kuizi](https://github.com/kabirnayeem99/flutter_quiz_app)
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about anything [here](https://github.com/kabirnayeem99/kabirnayeem99/issues)
 ---
