@@ -1,6 +1,19 @@
 ### Hello, beautiful people, This is Naimul 👋
 
+🎨 I love anything creative, solving problems by learning regularly. ⚗
+
+👨‍🏫 I am a self-taught mobile application developer with experience in building complex cross-platform mobile application and web app using technologies like Flutter, and Django. Experienced with Firebase Authentication, Storage 🔥, Hive NoSQL Database 🐝, SQLite 🕊, REST/SOAP APIs and working with outside data sources & APIs. I am proficient with VCS like git. 
+
+🛠 I love solving problems with the help of modern technologies which is backed by strong fundamentals in Data Structures and Algorithm. 
+
 ## I'm a passionate self-taught mobile app developer!
+- 👨‍💻 Technological enthusiasm, curiosity and passion for programming. 
+- 🎋 Adaptable to new positions, problems, framework and libraries.
+- 📖 Strong appetency for learning.
+- 📞 Flexible communication to reach my audience and Customer Interaction skills.
+- 🎨 Design and artistic soft skills.
+
+## I love making application and learning new things regularly
 - 🔭 I’m currently working on my project [Kuizi](https://github.com/kabirnayeem99/flutter_quiz_app)
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about anything [here](https://github.com/kabirnayeem99/kabirnayeem99/issues)
