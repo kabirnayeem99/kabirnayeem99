@@ -22,14 +22,9 @@
 ### connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br/>
 ---
-<br />
-
-
 
 ### languages and tools:
-
 [<img align="left" alt="Dart" width="26px" src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" />][Dart]
 [<img align="left" alt="Python" width="26px" src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-python-icon.png"/>][Python]
 [<img align="left" alt="Flutter" width="26px" src="https://izwebtechnologies.com/wp-content/uploads/2020/01/flutter-logo-round.png"/>][Flutter]
