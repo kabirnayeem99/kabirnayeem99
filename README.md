@@ -14,7 +14,7 @@
 - 🎨 design and artistic soft skills.
 
 ## i love making application and learning new things regularly
-- 🔭 i’m currently working on my project [kuizi](https://github.com/kabirnayeem99/flutter_quiz_app)
+- 🔭 i’m currently working on my project [OneSarkel](https://github.com/kabirnayeem99/flutter_one_ui_messaging_app)
 - 🌱 i’m currently learning flutter.
 - 💬 ask me about anything [here](https://github.com/kabirnayeem99/kabirnayeem99/issues)
 ---
