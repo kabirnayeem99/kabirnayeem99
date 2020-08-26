@@ -20,9 +20,11 @@
 ---
 
 ### connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
----
+[<img align="left" alt="Naimul Kabir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Naimul Kabir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width= "22px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg'>](https://stackoverflow.com/users/9659254)
+[<img align="left" width="22px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wikipedia.svg'>](https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80:Kabirnayeem.99) 
+<br/>
 
 ### languages and tools:
 [<img align="left" alt="Dart" width="26px" src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" />][Dart]
