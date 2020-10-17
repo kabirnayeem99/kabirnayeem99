@@ -2,10 +2,6 @@
 
 🎨 i love anything creative, solving problems by learning regularly. ⚗
 
-👨‍🏫 i am a self-taught mobile application developer with experience in building complex cross-platform mobile application and web app using technologies like flutter, and django. experienced with firebase authentication, storage 🔥, hive nosql database 🐝, sqlite 🕊, rest/soap apis and working with outside data sources & apis. i am proficient with vcs like git. 
-
-🛠 i love solving problems with the help of modern technologies which is backed by strong fundamentals in data structures and algorithm. 
-
 ## i'm a passionate self-taught mobile app developer!
 - 👨‍💻 technological enthusiasm, curiosity and passion for programming. 
 - 🎋 adaptable to new positions, problems, framework and libraries.
