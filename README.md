@@ -1,5 +1,7 @@
 
-# Hi there! I'm Kabir 👋
+<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" width="200" />
+
+### Hi there! I'm Kabir 👋
 
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=78c257&labelColor=000000&logo=twitter&logoColor=f5f7fe&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dkabirnayeem99&suffix=%20Followers)](https://https://twitter.com/kabirnayeem99)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=78c257&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://https://www.linkedin.com/in/kabirnayeem99/)
@@ -8,7 +10,6 @@
 > Undergrad @ University of Dhaka <br />
 > Mobile dev <br />
 
-![Here I am](https://static01.nyt.com/images/2017/05/13/well/cleaning_mobile/cleaning_mobile-articleLarge-v2.gif)
 
 I love anything creative, learn regulary to solve problems. 
 
