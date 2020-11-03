@@ -27,7 +27,7 @@ i love anything creative, learn regulary to solve problems.
   "languages": ["Dart", "Java","Python", "Kotlin", "Bash"],
   "frameworks/libraries": ["Flutter", "Django", "Android SDK"],
   "database": ["Mysql", "Hive", "Sqlite"],
-  "misc": ["Linux Automation", "Bash Scripting"],
+  "misc": ["TDD", "DDD", "DP", "Linux Automation", "Bash Scripting"],
   "tools": ["VS Code","Android Studio", "Vim"]
 }
 ```
