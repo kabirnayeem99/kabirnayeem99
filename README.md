@@ -8,6 +8,8 @@
 > Undergrad @ University of Dhaka <br />
 > Mobile dev <br />
 
+![Here I am](https://static01.nyt.com/images/2017/05/13/well/cleaning_mobile/cleaning_mobile-articleLarge-v2.gif)
+
 I love anything creative, learn regulary to solve problems. 
 
 ### Things you should know
@@ -15,7 +17,7 @@ I love anything creative, learn regulary to solve problems.
 - 🔭 <b>Currently working on:</b> Flutter, Kotlin & Java for Android dev
 - 🌱 <b>Getting better at:</b> Clean Architecture, Object Oriented Programming
 - 🤔 <b>Exploring:</b> JavaScript, Design Patterns, DS & Algo
-- ⚗️ <b>Currently Building:</b> A cross platform ebook reader
+- ⚗️ <b>Currently building:</b> A cross platform ebook reader
 
 ### My Stacks
 
