@@ -1,14 +1,6 @@
-### hello, beautiful people, this is Naimul 👋
-
-🎨 i love anything creative, solving problems by learning regularly. ⚗
-
-## i'm a passionate self-taught mobile app developer!
-- 👨‍💻 technological enthusiasm, curiosity and passion for programming. 
-- 🎋 adaptable to new positions, problems, framework and libraries.
-- 📖 strong appetency for learning.
-- 📞 flexible communication to reach my audience and customer interaction skills.
-- 🎨 design and artistic soft skills.
-
+## 👋 nice to meet you...
+### this is ...
+# Kabir Nayeem 👓
 ## i love making application and learning new things regularly
 - 🔭 i’m currently working on my project [OneSarkel](https://github.com/kabirnayeem99/flutter_one_ui_messaging_app)
 - 🌱 i’m currently learning flutter.
