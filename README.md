@@ -8,15 +8,15 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=78c257&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:kabirnayeem.99@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
 > undergrad @ University of Dhaka <br />
-> freelance copywriter
+> freelance copywriter <br/>
 > self-taught mobile dev <br />
 
-i love anything creative, learn regulary to solve problems. 
+i love anything creative, learning regulary for solving problems. 
 
 ### and then...
 
-- 🔭 <b>currently working on:</b> flutter, kotlin & java for android dev
-- 🌱 <b>getting better at:</b> Clean Architecture, object oriented programming
+- 🔭 <b>currently working on:</b> java, & flutterfor mobile development
+- 🌱 <b>getting better at:</b> clean architecture, object oriented programming
 - 🤔 <b>exploring:</b> javascript, design patterns, ds & algo
 - ⚗️ <b>currently building:</b> a cross platform ebook reader
 
@@ -24,11 +24,11 @@ i love anything creative, learn regulary to solve problems.
 
 ```json
 {
-  "languages": ["Dart", "Java","Python", "Kotlin", "Bash"],
-  "frameworks/libraries": ["Flutter", "Django", "Android SDK"],
+  "languages": ["Java", "Dart","Python", "Kotlin", "Bash"],
+  "frameworks/libraries": ["Android SDK", "Flutter", "Django"],
   "database": ["Mysql", "Hive", "Sqlite"],
-  "misc": ["TDD", "DDD", "DP", "Linux Automation", "Bash Scripting"],
-  "tools": ["VS Code","Android Studio", "Vim"]
+  "misc": ["Test-Driven Development", "Domain Driven Development", "Design Patterns", "Linux Automation", "Bash Scripting"],
+  "tools": ["Android Studio", "VS Code", "Vim"]
 }
 ```
 
