@@ -32,6 +32,9 @@ i love anything creative, learn regulary to solve problems.
 }
 ```
 
+### My Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirnayeem99&theme=tokyonight)
+
 #### happy coding! :coffee:
 
 
