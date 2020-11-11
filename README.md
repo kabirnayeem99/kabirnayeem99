@@ -33,7 +33,9 @@ i love anything creative, learning regulary for solving problems.
 ```
 
 ### My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirnayeem99&theme=graywhite&hide=html,makefile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirnayeem99&layout=compact&theme=graywhite&hide=html,makefile&hide_title=true&hide_border=true)
+
+
 
 #### happy coding! :coffee:
 
