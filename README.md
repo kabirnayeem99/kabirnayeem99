@@ -33,9 +33,11 @@ i love anything creative, learning regulary for solving problems.
 ```
 
 ### My Stats
+![Kabir's github stats](https://github-readme-stats.vercel.app/api?username=kabirnayeem99&count_private=true&show_icons=false&theme=graywhite&hide_border=true&hide_title=true&hide=stars,issues)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirnayeem99&layout=compact&theme=graywhite&hide=html,makefile&hide_title=true&hide_border=true)
 
-
+<br/>
 
 #### happy coding! :coffee:
 
