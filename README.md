@@ -33,9 +33,9 @@ i love anything creative, solving problems by learning regularly.
 ```
 
 ### my Stats
-![my github stats](https://github-readme-stats.vercel.app/api?username=kabirnayeem99&count_private=true&show_icons=false&theme=gruvbox&hide_border=true&hide_title=true&hide=stars,issues)
+![my github stats](https://github-readme-stats.vercel.app/api?username=kabirnayeem99&count_private=true&show_icons=false&theme=dark&hide_border=true&hide_title=true&hide=stars,issues)
 <br/>
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirnayeem99&layout=compact&theme=gruvbox&hide=html,makefile&hide_title=true&hide_border=true)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirnayeem99&layout=compact&theme=dark&hide=html,makefile&hide_title=true&hide_border=true)
 
 <br/>
 
