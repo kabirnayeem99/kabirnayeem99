@@ -6,7 +6,7 @@
 </em></p>
 
 [![Twitter: kabirnayeem99](https://img.shields.io/twitter/follow/kabirnayeem99?style=social)](https://twitter.com/kabirnayeem99)
-[![Linkedin: Naimul Kabir](https://img.shields.io/badge/-Naimul Kabir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kabirnayeem99/)](https://www.linkedin.com/in/kabirnayeem99/)
+[![Linkedin: Naimul Kabir](https://img.shields.io/badge/-kabirnayeem99-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kabirnayeem99/)](https://www.linkedin.com/in/kabirnayeem99/)
 [![GitHub kabirnayeem99](https://img.shields.io/github/followers/kabirnayeem99?label=follow&style=social)](https://github.com/kabirnayeem99)
 
 
