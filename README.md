@@ -1,12 +1,13 @@
 
 <h2> Hi, I'm Naimul Kabir! <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+<p><em>undergrad @ <a href="http://www.du.ac.bd">University of Dhaka</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Aspiring Self-taught Mobile Application Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Twitter: kabirnayeem99](https://img.shields.io/twitter/follow/kabirnayeem99?style=social)](https://twitter.com/kabirnayeem99)
+[![Linkedin: Naimul Kabir](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kabirnayeem99/)](https://www.linkedin.com/in/kabirnayeem99/)
+[![GitHub kabirnayeem99](https://img.shields.io/github/followers/kabirnayeem99?label=follow&style=social)](https://github.com/kabirnayeem99)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -40,9 +41,6 @@ const thai = {
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=78c257&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://https://www.linkedin.com/in/kabirnayeem99/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=78c257&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:kabirnayeem.99@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
-> undergrad @ University of Dhaka <br />
-> freelance copywriter <br/>
-> self-taught mobile dev <br />
 
 i love anything creative, solving problems by learning regularly. 
 
