@@ -2,6 +2,8 @@
 <h2> Hi, I'm Naimul Kabir! <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="230">
 
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+
 <p><em>undergrad @ <a href="http://www.du.ac.bd">University of Dhaka</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Aspiring Self-taught Mobile Application Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -21,11 +23,12 @@
 }
 ```
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirnayeem99&theme=tokyonight&hide=html,makefile)
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
 ⭐️ From [@kabirnayeem99](https://github.com/kabirnayeem99)
-
 
 
