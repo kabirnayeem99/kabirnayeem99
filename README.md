@@ -3,7 +3,6 @@
 <img align='right' src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="230">
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=kabirnayeem99.kabirnayeem99)
-
 <p><em>undergrad @ <a href="http://www.du.ac.bd">University of Dhaka</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Aspiring Self-taught Mobile Application Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
