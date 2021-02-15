@@ -37,8 +37,12 @@ Aspiring Self-taught Mobile App Developer
 ```
 
 <!-- Top used languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirnayeem99&layout=compact&langs_count=10&theme=dark&hide=html,makefile,javascript,css,d)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kabirnayeem99&layout=compact&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://ionicabizau.github.io/github-profile-languages/?user=kabirnayeem99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirnayeem99&layout=compact&langs_count=10&theme=dark&hide=html,makefile,javascript,css,d" />
+</a>
+<a href="https://wakatime.com/@kabirnayeem99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kabirnayeem99&layout=compact&langs_count=10&theme=dark)" />
+</a>
 
 <!-- First footer -->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to talk with you more!</b> :)</em>
