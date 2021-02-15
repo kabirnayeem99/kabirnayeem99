@@ -41,7 +41,7 @@ Aspiring Self-taught Mobile App Developer
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirnayeem99&layout=compact&langs_count=10&theme=dark&hide=html,makefile,javascript,css,d" />
 </a>
 <a href="https://wakatime.com/@kabirnayeem99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kabirnayeem99&layout=compact&langs_count=10&theme=dark)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kabirnayeem99&layout=compact&langs_count=10&theme=dark" />
 </a>
 
 <!-- First footer -->
