@@ -37,11 +37,11 @@ Aspiring Self-taught Mobile App Developer
 ```
 
 <!-- Top used languages -->
-<a href="https://ionicabizau.github.io/github-profile-languages/?user=kabirnayeem99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirnayeem99&layout=compact&langs_count=10&theme=dark&hide=html,makefile,javascript,css,d" />
-</a>
 <a href="https://wakatime.com/@kabirnayeem99">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kabirnayeem99&layout=compact&langs_count=10&theme=dark" />
+</a>
+<a href="https://ionicabizau.github.io/github-profile-languages/?user=kabirnayeem99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirnayeem99&layout=compact&langs_count=10&theme=dark&hide=html,makefile,javascript,css,d" />
 </a>
 
 <!-- First footer -->
