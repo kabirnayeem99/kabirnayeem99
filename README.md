@@ -15,15 +15,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabirnayeem.99@gmail.com)
 [![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kabirnayeem99)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabirnayeem99&show_icons=true&locale=en&layout=compact&theme=dark&hide=javascript,html,makefile" alt="kabirnayeem99" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kabirnayeem99&theme=dark&layout=compact&hide=html,groovy" alt="kabirnayeem99" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kabirnayeem99&show_icons=true&locale=en&theme=dark" alt="kabirnayeem99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabirnayeem99&theme=dark" alt="kabirnayeem99" /></p>
-
-
 ## → My Languages/Tools
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-ThinkPad_T440P-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -50,3 +41,12 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+## → Stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabirnayeem99&show_icons=true&locale=en&layout=compact&theme=dark&hide=javascript,html,makefile" alt="kabirnayeem99" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kabirnayeem99&theme=dark&layout=compact&hide=html,groovy" alt="kabirnayeem99" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kabirnayeem99&show_icons=true&locale=en&theme=dark" alt="kabirnayeem99" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabirnayeem99&theme=dark" alt="kabirnayeem99" /></p>
