@@ -1,53 +1,27 @@
+![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
 
-<!-- Header with the icon -->
-<h2> Hello, I'm Naimul Kabir! <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="50"></h2>
-
-<!-- Image of a guy coding alone -->
-<img align='right' src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="200">
-
-<!-- Visitor count -->
-![](https://visitor-badge.laobi.icu/badge?page_id=kabirnayeem99.kabirnayeem99)
-
-<!-- about myself overview -->
-<p>
-<em>undergrad @ <a href="http://www.du.ac.bd">University of Dhaka</a>
-<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</br>
-
-Aspiring Self-taught Mobile App Developer
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-<!-- Social media buttons -->
-[![Twitter: kabirnayeem99](https://img.shields.io/twitter/follow/kabirnayeem99?style=social)](https://twitter.com/kabirnayeem99)
-
-[![Linkedin: Naimul Kabir](https://img.shields.io/badge/-kabirnayeem99-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kabirnayeem99/)](https://www.linkedin.com/in/kabirnayeem99/)
-
-[![GitHub kabirnayeem99](https://img.shields.io/github/followers/kabirnayeem99?label=follow&style=social)](https://github.com/kabirnayeem99)
-
-
-<!-- A little bit about me -->
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-<!-- CV in JSON -->
-```json
-{
-  "pronouns": "he , his",
-  "code": "Dart, Java, Kotlin, Python, C",
-  "tools": "Flutter, Android SDK, Django",
-  "architecture": "MVVM, TDD"
-}
-```
-
-<!-- Top used languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirnayeem99&theme=tokyonight&hide=html,makefile)
-
-
-<!-- First footer -->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to talk with you more!</b> :)</em>
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/kabirnayeem99/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
 
 ---
-<!-- Footer -->
-⭐️ From [@kabirnayeem99](https://github.com/kabirnayeem99)
 
+**Latest blog posts**
+<!-- BLOG-POST-LIST:START -->
+- [How To Fork A Subdirectory Of Repo As A Different Repo On GitHub](https://blog.mphomphego.co.za/blog/2021/02/07/How-to-fork-a-subdirectory-of-repo-as-a-different-repo-on-GitHub.html)
+- [Install Prometheus & Grafana With Helm 3 On Kubernetes Cluster Running On Vagrant VM](https://blog.mphomphego.co.za/blog/2021/02/01/Install-Prometheus-and-Grafana-with-helm-3-on-Kubernetes-cluster-running-on-Vagrant-VM.html)
+- [Note To Self: A VirtualBox Machine With The Name Already Exists.](https://blog.mphomphego.co.za/blog/2021/01/14/A-VirtualBox-machine-with-the-name-already-exists/html)
+- [How I Became A Udacity Mentor](https://blog.mphomphego.co.za/blog/2021/01/03/How-I-became-a-Udacity-Mentor.html)
+- [2020 In Retrospective](https://blog.mphomphego.co.za/blog/2020/12/30/2020-In-Retrospective.html)
+<!-- BLOG-POST-LIST:END -->
 
+---
+
+<p  align="center">
+<a href= "https://blog.mphomphego.co.za/"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
+<a href= "https://www.linkedin.com/in/mphomphego/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://www.youtube.com/c/MphoMphego1"><img src="https://img.icons8.com/material-outlined/30/000000/youtube.png"/></a>
+<a href= "https://dev.to/mmphego"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://twitter.com/mphomphego"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+</p>
