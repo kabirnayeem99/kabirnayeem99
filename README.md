@@ -1,9 +1,9 @@
 ## → Overview
-- 🔭 I’m currently working on [AlarmForSalat](https://github.com/kabirnayeem99/AlarmForSalat)
+- 🛠️ I’m currently working on [AlarmForSalat](https://github.com/kabirnayeem99/AlarmForSalat)
 
-- 🌱 I’m currently learning **Native Android Development**
+- 📚 I’m currently learning **Native Android Development**
 
-- 📝 I sometime write some articles on **[Medium](kabirnayeem99.medium.com)**
+- ⌨️ I sometime write some articles on **[Medium](kabirnayeem99.medium.com)**
 
 
 ## → Connect With Me
