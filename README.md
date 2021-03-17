@@ -3,7 +3,7 @@
 
 - 📚 I’m currently learning **Native Android Development**
 
-- ⌨️ I sometime write some articles on **[Medium](kabirnayeem99.medium.com)**
+- ⌨️ I sometime write some articles on **[Medium](https://kabirnayeem99.medium.com)**
 
 
 ## → Connect With Me
