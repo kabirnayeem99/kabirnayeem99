@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/877bdd59-77ed-4e91-839b-edf730c4e129.svg)](https://wakatime.com/@877bdd59-77ed-4e91-839b-edf730c4e129)
+
 Hi, this is Naimul Kabir, an aspiring mobile application developer from Bangladesh. 
 
 ## → Connect With Me
