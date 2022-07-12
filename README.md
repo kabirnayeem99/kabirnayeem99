@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/877bdd59-77ed-4e91-839b-edf730c4e129.svg)](https://wakatime.com/@877bdd59-77ed-4e91-839b-edf730c4e129)
 
-Hi, this is Naimul Kabir, an aspiring mobile application developer from Bangladesh. 
+Hi, this is Naimul Kabir, an analytical and detail-oriented Mobile app developer professional with stellar communication skills. Enthusiastic about and good at modern android development tools (Kotlin Coroutines, Jetpack Compose, Room, Paging3, and so on), architectural patterns (Clean architecture, MVVM, Reactive Programming and BLOC), and problem-solving. Experienced with and interested in cross-platform mobile app development solutions (Flutter), along with expertise in native android development (Android SDK). Worked with different teams and clients from other countries and of different sizes and have committed to viable and easily functional app solutions for clients.
 
 ## → Connect With Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabirnayeem99/)
