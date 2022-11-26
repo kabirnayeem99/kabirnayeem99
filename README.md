@@ -16,7 +16,6 @@ Hi, this is Naimul Kabir, a mobile Application Developer with a focus on design 
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-[![wakatime](https://wakatime.com/share/@kabirnayeem99/7331d67f-865b-4c0e-ab1d-a9a3bd358dad.png)](https://wakatime.com/@877bdd59-77ed-4e91-839b-edf730c4e129)
 
 ## → I am interested in working with
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -24,16 +23,12 @@ Hi, this is Naimul Kabir, a mobile Application Developer with a focus on design 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<!-- ## → Stats
+ ## → Stats
 
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=kabirnayeem99&theme=github" alt="annshiv" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabirnayeem99&show_icons=true&locale=en&layout=compact&theme=light&hide=javascript,html,makefile" alt="kabirnayeem99" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabirnayeem99&show_icons=true&locale=en&layout=compact&theme=dark&hide=javascript,html,makefile" alt="kabirnayeem99" /></p>
+<p><a href="https://wakatime.com/@kabirnayeem99"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kabirnayeem99&theme=light&layout=compact&hide=html,groovy" alt="kabirnayeem99" /></a></p>
 
-<p><a href="https://wakatime.com/@kabirnayeem99"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kabirnayeem99&theme=dark&layout=compact&hide=html,groovy" alt="kabirnayeem99" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kabirnayeem99&show_icons=true&locale=en&theme=light" alt="kabirnayeem99" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kabirnayeem99&show_icons=true&locale=en&theme=dark" alt="kabirnayeem99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabirnayeem99&theme=dark" alt="kabirnayeem99" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabirnayeem99&theme=light" alt="kabirnayeem99" /></p> 
