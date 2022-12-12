@@ -27,7 +27,7 @@ Hi, this is Naimul Kabir, a mobile Application Developer with a focus on design 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabirnayeem99&show_icons=true&locale=en&layout=compact&theme=light&hide=javascript,html,makefile" alt="kabirnayeem99" /></p>
 
-<p><a href="https://wakatime.com/@kabirnayeem99"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kabirnayeem99&theme=light&layout=compact&hide=html,groovy" alt="kabirnayeem99" /></a></p>
+<p><a href="https://wakatime.com/@kabirnayeem99"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kabirnayeem99&theme=light&layout=compact&langs_count=10&hide=html,groovy" alt="kabirnayeem99" /></a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kabirnayeem99&show_icons=true&locale=en&theme=light" alt="kabirnayeem99" /></p>
 
