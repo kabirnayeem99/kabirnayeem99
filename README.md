@@ -1,8 +1,10 @@
 [![wakatime](https://wakatime.com/badge/user/877bdd59-77ed-4e91-839b-edf730c4e129.svg)](https://wakatime.com/@877bdd59-77ed-4e91-839b-edf730c4e129)
 
-Naimul Kabir is a mobile app developer with a focus on design patterns, performance tuning, and scalability. With a proven record of expertise in both native Android and cross-platform (Flutter) development, he has worked on numerous cross-platform projects for clients, employers, and contractors from around the world. Naimul has experience working on projects of varying degrees of complexity, scale, and type, and he specializes in developing performant and scalable mobile applications that can be easily deployed on multiple platforms. He holds extensive knowledge of design patterns, performance tuning, architectural patterns, and clean code, and he also has a strong passion for OOP and FP paradigms, which he utilizes to design and develop applications that are both maintainable and scalable.
+As a mobile app developer, I have proven expertise in both native Android and cross-platform (Flutter) development. Over the years, I have worked on numerous cross-platform projects, designing and implementing efficient and robust applications. My specialty lies in developing performant and scalable mobile applications that can be easily deployed across multiple platforms.
 
-In addition to his technical expertise, Naimul enjoys staying up-to-date with the latest technologies and experimenting with new tools and techniques. He approaches programming as a professional problem solver and enjoys building and shipping new products like an amateur carpenter.
+I possess extensive knowledge of design patterns, performance tuning, architectural patterns, and clean code principles. I also have a strong passion for both object-oriented programming (OOP) and functional programming (FP) paradigms, which I utilize to design and develop applications that are both maintainable and scalable.
+
+My skill set and expertise make me a valuable asset to any team seeking to develop high-quality mobile applications that are optimized for performance, scalability, and maintainability. If you're looking for a mobile app developer who can deliver results, please don't hesitate to get in touch.
 
 ## → Connect With Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabirnayeem99/)
