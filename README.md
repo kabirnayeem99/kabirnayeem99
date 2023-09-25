@@ -1,10 +1,10 @@
 [![wakatime](https://wakatime.com/badge/user/877bdd59-77ed-4e91-839b-edf730c4e129.svg)](https://wakatime.com/@877bdd59-77ed-4e91-839b-edf730c4e129)
 
-As a mobile app developer, I have proven expertise in both native Android and cross-platform (Flutter) development. Over the years, I have worked on numerous cross-platform projects, designing and implementing efficient and robust applications. My specialty lies in developing performant and scalable mobile applications that can be easily deployed across multiple platforms.
+Mobile app developer with expertise in both native Android SDK and cross-platform frameworks like Flutter. Experienced in developing scalable and maintainable solutions with knowledge of programming paradigms like Functional Programming and OOP as well as design and architectural patterns like Clean Architecture, MVC, MVVM, and BLOC. 
 
-I possess extensive knowledge of design patterns, performance tuning, architectural patterns, and clean code principles. I also have a strong passion for both object-oriented programming (OOP) and functional programming (FP) paradigms, which I utilize to design and develop applications that are both maintainable and scalable.
+Worked with clients from a variety of backgrounds on broad-ranging, widely used projects. 
 
-My skill set and expertise make me a valuable asset to any team seeking to develop high-quality mobile applications that are optimized for performance, scalability, and maintainability. If you're looking for a mobile app developer who can deliver results, please don't hesitate to get in touch.
+Absolutely adores programming.
 
 ## → Connect With Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabirnayeem99/)
