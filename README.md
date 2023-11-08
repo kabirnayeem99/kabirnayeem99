@@ -36,3 +36,5 @@ Absolutely adores programming.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kabirnayeem99&show_icons=true&locale=en&theme=light" alt="kabirnayeem99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabirnayeem99&theme=light" alt="kabirnayeem99" /></p> 
+
+[![kabirnayeem99's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kabirnayeem99&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
